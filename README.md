@@ -13,3 +13,8 @@ PROJECT_TITLE="<title to display in toast>"
 TRIGGER_TIME_HOURS="<hours to trigger toast>"
 
 ```
+
+## Run periodically
+
+1. Create a script for calling python and the `src/main.py`
+2. Create a periodic task in the OS
